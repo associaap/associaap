@@ -1,6 +1,3 @@
----
-title: Sobre
----
 
 <p> AEQIA tem por finalidade (s): </p>
 <p> a) - Congregar os Produtores Extrativistas , Indígenas e Quilombola de toda região Amazônica em torno de propostas socioeconômicas e culturais bem delineadas, que visem à melhoria da qualidade de vida dos Produtores Agricultores, Extrativistas ,  Quilombola e Indígenas ; </p>

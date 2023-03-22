@@ -9,9 +9,6 @@ site_description: >-
     </p>
     <br><br>
 
-# Copyright
-copyright: Copyright &copy; 2023 Aylton Aguiar
-
 # Configurações
 theme: 
   name: material
@@ -115,4 +112,5 @@ markdown_extensions:
 # Árvore de Navegação
 nav:
     - Início: index.md
-    - AEQIA tem por finalidade: src/finalidade.md
+    - AEQIA tem por finalidade:
+      - src/finalidade.md
