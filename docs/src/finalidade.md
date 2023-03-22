@@ -27,3 +27,5 @@ title: Sobre
 <p> v) - Promover campanhas educativas de prevenção ao uso indevido de substâncias químicas (drogas);</p>
 <p> w) - Não permitir na área de ação da comunidade, em momento algum, qualquer tipo de exploração do homem pelo homem, bem como não permitir exploração ou abuso dos bens produzidos na comunidade; </p>
 <p> x) - Obter a cooperação técnica e financeira de órgãos ou entidades nacionais e internacionais, públicas ou privadas, e trabalhar na infra-estrutura através de convênios, acordos, parcerias e contratos, visando o fortalecimento ou a ampliação de suas ações institucionais </p>
+<br><br>
+<p> Presidente: Francisco Rozivaldo Ribeiro de Oliveira </p>
