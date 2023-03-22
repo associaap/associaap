@@ -94,8 +94,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: AyltonAguiar
-      repo: northwind
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -113,4 +111,4 @@ markdown_extensions:
 nav:
     - Início: index.md
     - AEQIA tem por finalidade:
-      - src/finalidade.md
+      - src/site/finalidade.md
