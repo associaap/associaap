@@ -116,6 +116,6 @@ markdown_extensions:
 nav:
     - Início: index.md
     - AEQIA tem por finalidade: 
-    - src/site/finalidade.md
+    - src/finalidade.md
 
 
