@@ -115,6 +115,7 @@ markdown_extensions:
 # Árvore de Navegação
 nav:
     - Início: index.md
-    - AEQIA tem por finalidade: src/site/index.md
+    - AEQIA tem por finalidade: 
+    - src/site/index.md
 
 
